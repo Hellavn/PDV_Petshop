@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\vandr\source\repos\Projeto_Petshop\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="view\backupBusca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\BuscarProdutoEstoque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\CPFcliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\Estoque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\GerirCategoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\GerirCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\GerirMarca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\GerirProduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\GerirUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\Load.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\MargemLucro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\relatoriofechamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\Relatoriomarcaoucategoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\RelatorioVendaPorPeriodo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\Relatorio_prodmaisvendido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\Relatorio_vencimentoprod.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\Relatorio_produtocombaixoestoque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\TelaDeCaixa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\TelaLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\TelaPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\GerirFornecedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

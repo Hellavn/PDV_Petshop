@@ -1,0 +1,13 @@
+D:\projeto II\Projeto_Petshop.exe
+D:\projeto II\Projeto_Petshop.dll
+D:\projeto II\Projeto_Petshop.deps.json
+D:\projeto II\Projeto_Petshop.runtimeconfig.json
+D:\projeto II\Projeto_Petshop.pdb
+D:\projeto II\BouncyCastle.Crypto.dll
+D:\projeto II\itextsharp.dll
+D:\projeto II\System.Data.SqlClient.dll
+D:\projeto II\runtimes\win-arm64\native\sni.dll
+D:\projeto II\runtimes\win-x64\native\sni.dll
+D:\projeto II\runtimes\win-x86\native\sni.dll
+D:\projeto II\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\projeto II\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
